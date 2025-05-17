@@ -29,7 +29,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat-square&logo=clerk)
-![Convex](https://img.shields.io/badge/-Convex-3F3F46?style=flat-square&logo=)
+![Convex](https://img.shields.io/badge/-Convex-3F3F46?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
@@ -46,23 +46,35 @@
 </p>
 
 ---
+
 ### 🧠 Competitive Programming
 
-<p align="left">
-  <a href="https://leetcode.com/u/Nitish_kr01/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Nitish_kr01?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="400" />
-  </a>
-</p>
+#### 📍 LeetCode  
+- 🟨 Rating: **1800+**  
+- 🧩 Solved: **600+ problems**  
+- 🔥 Contest rating: ![](https://img.shields.io/badge/Contest-Rating-blueviolet)  
+- 📊 Heatmap & Profile:  
+<a href="https://leetcode.com/u/Nitish_kr01/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Nitish_kr01?theme=dark&font=Karma&ext=heatmap" width="400" />
+</a>
 
-<p align="right">
-  <a href="https://www.geeksforgeeks.org/user/nitish_kr01/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-nitish__kr01-18c47d?style=flat-square&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/Jaardo" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Jaardo-orange?style=flat-square&logo=codeforces&logoColor=white" />
-  </a>
+---
+
+#### 📍 GeeksforGeeks  
+- 🥉 **3rd in NIET College Rank**  
+- 🧠 Solved: **750+ problems**  
+- 📈 GFG Coding Heatmap:
   
-</p>
+![GFG Activity](https://raw.githubusercontent.com/Nitish-kr01/GeeksForGeeks-Stats/main/output/overview.svg)
+
+> 📎 [View Full Profile](https://www.geeksforgeeks.org/user/nitish_kr01/)
+
+---
+
+#### 📍 Codeforces  
+- 🎯 Current Rating: **1303 (Pupil)**  
+- 📈 Max Rating: **1303**  
+- 🔘 Handle: [Jaardo](https://codeforces.com/profile/Jaardo)
 
 ---
 
