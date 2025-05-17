@@ -12,7 +12,6 @@
 - 💼 Working on **[BlackStack](https://blackstack.vercel.app/)** – a powerful code editor & snippet manager  
 - 🌞 Led multiple tech events as **Head Coordinator of Gen AI Club @ NIET**
 - 💡 AR Enthusiast | Built an **AR-based resume** + 3D model scanning using Unity
-- 🌐 Organized a **GitHub Workshop** with live coding + competitions  
 - ⚡ Passionate about Web, AR, ML & Cloud | GCP Arcade Swag Winner  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitish-kr01/) | [Twitter/X](https://twitter.com/Nitishkr01) | [Portfolio](https://nitish-kr01.github.io/)
 
@@ -54,25 +53,7 @@
 |--------|-------------|------|
 | **BlackStack** | 🧠 All-in-one code editor and snippet manager (React + Convex + Clerk) | [🔗 Website](https://blackstack.vercel.app/) |
 | **Solar Rooftop Estimator** | ☀️ ML-based solar potential map using building footprints | – |
-| **Scholarship Portal PMSSS** | 🎓 Portal for J&K & Ladakh students under AICTE scheme | – |
 | **Emotion Detection App** | 🎭 Real-time speech emotion recognition with LSTM | – |
-
----
-
-### 🏆 Achievements
-
-- 🥇 GCP Arcade 2024 Winner – Jan–June session
-- 🧠 Hackathon Mentor for 1st-year students @ NIET
-- 👨‍🏫 Hosted 90+ students for GitHub hands-on workshop
-- 🌍 Finalist in multiple regional & national-level tech events
-
----
-
-### 🧩 Fun Facts
-
-- 😎 I love mixing art with code – like my **AR Resume**
-- 🎮 Sometimes I dive into game development with Unity
-- 💬 Ask me anything about Web Dev, GitHub, or Cloud!
 
 ---
 
