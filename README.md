@@ -65,7 +65,10 @@
 - 🧠 Solved: **750+ problems**  
 - 📈 GFG Coding Heatmap:
   
-![GFG Activity](https://raw.githubusercontent.com/Nitish-kr01/GeeksForGeeks-Stats/main/output/overview.svg)
+<a href="https://www.geeksforgeeks.org/user/nitish_kr01/" target="_blank">
+  <img src="https://img.shields.io/badge/GFG-Rank%203%20@NIET-18c47d?style=flat&logo=geeksforgeeks&logoColor=white" />
+</a>
+
 
 > 📎 [View Full Profile](https://www.geeksforgeeks.org/user/nitish_kr01/)
 
