@@ -15,7 +15,7 @@
 - 🌞 Led multiple tech events as **Head Coordinator of Gen AI Club @ NIET**
 - 💡 AR Enthusiast | Built an **AR-based resume** + 3D model scanning using Unity
 - ⚡ Passionate about Web, AR, ML & Cloud | GCP Arcade Swag Winner  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitish-kr01/) | [Twitter/X](https://twitter.com/Nitishkr01) | [Portfolio](https://nitish-kr01.github.io/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitish-kr01/)
 
 ---
 
