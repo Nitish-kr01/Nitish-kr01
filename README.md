@@ -62,7 +62,6 @@
     <img src="https://img.shields.io/badge/Codeforces-Jaardo-orange?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
 </p>
-<img src="https://your-uploaded-gfg-stats-image-url" width="400" alt="GeeksforGeeks Stats" />
 
 ---
 
