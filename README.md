@@ -52,32 +52,10 @@
 #### 📍 LeetCode  
 - 🟨 Rating: **1800+**  
 - 🧩 Solved: **600+ problems**  
-- 🔥 Contest rating: ![](https://img.shields.io/badge/Contest-Rating-blueviolet)  
-- 📊 Heatmap & Profile:  
-<a href="https://leetcode.com/u/Nitish_kr01/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/Nitish_kr01?theme=dark&font=Karma&ext=heatmap" width="400" />
-</a>
-
----
-
-#### 📍 GeeksforGeeks  
-- 🥉 **3rd in NIET College Rank**  
-- 🧠 Solved: **750+ problems**  
-- 📈 GFG Coding Heatmap:
-  
-<a href="https://www.geeksforgeeks.org/user/nitish_kr01/" target="_blank">
-  <img src="https://img.shields.io/badge/GFG-Rank%203%20@NIET-18c47d?style=flat&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-
-> 📎 [View Full Profile](https://www.geeksforgeeks.org/user/nitish_kr01/)
-
----
-
-#### 📍 Codeforces  
-- 🎯 Current Rating: **1303 (Pupil)**  
-- 📈 Max Rating: **1303**  
-- 🔘 Handle: [Jaardo](https://codeforces.com/profile/Jaardo)
+- 🔥 Contest rating:  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Nitish_kr01?theme=dark&font=Karma&ext=contest" width="400" />
+</p>
 
 ---
 
