@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 <h3 align="center">🚀 Developer | 💡 Tech Enthusiast | 📍 India</h3>
 
@@ -53,10 +55,17 @@
 - 🟨 Rating: **1800+**  
 - 🧩 Solved: **600+ problems**  
 - 🔥 Contest rating:  
-<p align="center">
+<p align="left">
   <img src="https://leetcard.jacoblin.cool/Nitish_kr01?theme=dark&font=Karma&ext=contest" width="400" />
 </p>
 
+#### 📍 CodeForces
+- 🟦 Max Rating: **1300+**
+- 🧠 Contests: **5+**
+- 📈 Contest rating:  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Nitish-kr01/codeforces-graph/main/rating-graph.svg" width="400" />
+</p>
 ---
 
 ### 📌 Featured Projects
