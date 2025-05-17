@@ -54,13 +54,14 @@
   </a>
 </p>
 
-<p align="left">
+<p align="right">
   <a href="https://www.geeksforgeeks.org/user/nitish_kr01/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-nitish__kr01-18c47d?style=flat-square&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/Jaardo" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Jaardo-orange?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
+  
 </p>
 
 ---
