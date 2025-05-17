@@ -46,6 +46,25 @@
 </p>
 
 ---
+### 🧠 Competitive Programming
+
+<p align="left">
+  <a href="https://leetcode.com/u/Nitish_kr01/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Nitish_kr01?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="400" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.geeksforgeeks.org/user/nitish_kr01/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-nitish__kr01-18c47d?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Jaardo" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Jaardo-orange?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+<img src="https://your-uploaded-gfg-stats-image-url" width="400" alt="GeeksforGeeks Stats" />
+
+---
 
 ### 📌 Featured Projects
 
